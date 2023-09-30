@@ -1,4 +1,4 @@
-
+![logo](https://github.com/raunakp23/raunakp23/blob/main/Raunak%20kumar%20(1).png)
 <h1 align="center">Hi 👋, I'm Raunak Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
